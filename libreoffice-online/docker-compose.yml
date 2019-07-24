@@ -2,7 +2,7 @@ version: '2'
 
 services:
   online:
-    image: libreoffice/online:master
+    image: cibsoftware/libreoffice-online:6.2
     environment:
       domain: ${NEXTCLOUD_DOMAIN}
       username: ${LO_ONLINE_USERNAME}
