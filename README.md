@@ -1,4 +1,3 @@
-# 喻海云是个大傻蛋，大傻吊
 
 # Nextcloud with LibreOffice Online powered by CIB
 
